@@ -19,9 +19,9 @@ export default function Detalhes() {
 
   return (
     <section>
-      <h1 className="ms-48 mt-10 mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+      <h1 className="ms-48 mt-10 mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-800 md:text-5xl lg:text-6xl dark:text-gray-900">
         Detalhes do:{" "}
-        <span className="underline underline-offset-3 decoration-8 decoration-orange-400 dark:decoration-orange-600">
+        <span className="underline underline-offset-3 decoration-8 decoration-orange-400 dark:decoration-fuchsia-800">
           {perfume?.nome}
         </span>
       </h1>

@@ -3,7 +3,7 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "Revenda Avenida",
+  title: "PerfumePrime",
   description: "Revenda de perfumes em Pelotas-RS",
   keywords: ['Revenda', 'Perfumes', 'Fragrâncias']
 };
